@@ -25,15 +25,15 @@ const Navbar = () => {
           </div>
           <div>
 
-          <a href="http://localhost:5173/post">Friends</a>
+          <a href="https://weblink-three.vercel.app/post">Friends</a>
           </div>
           <div>
 
-          <a href="http://localhost:5173/noti">Requests</a>
+          <a href="https://weblink-three.vercel.app/noti">Requests</a>
           </div>
           <div>
 
-          <a href="http://localhost:5173/fr">Suggestions</a>
+          <a href="https://weblink-three.vercel.app/fr">Suggestions</a>
           </div>
         </div>
       </div>
